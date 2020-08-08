@@ -51,7 +51,7 @@ def analyze(request):
         return HttpResponse("please select any operation")
     return  render(request,'analyze.html',params)
 
-
+# here is nothing change appear 
 
 
 
